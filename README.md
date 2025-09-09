@@ -422,5 +422,3 @@ Sai Kiran Reddy Kondreddygari is a Data Engineer with 4+ years of experience bui
 
 Connect with me:
 - Email: kondreddygarisaikiranreddy18@gmail.com
-- LinkedIn: Sai Kiran Reddy Kondreddygari
-- GitHub: Sai Kiran Reddy Kondreddygari
